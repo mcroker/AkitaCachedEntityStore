@@ -1,0 +1,24 @@
+{
+  "name": "akitacachedentitystore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcroker/AkitaCachedEntityStore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcroker/AkitaCachedEntityStore/issues"
+  },
+  "homepage": "https://github.com/mcroker/AkitaCachedEntityStore#readme",
+  "dependencies": {
+    "@angular/core": "^9.1.0",
+    "@datorama/akita": "^4.22.0",
+    "@datorama/akita-ng-router-store": "^4.0.0"
+  }
+}
