@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mcroker/AkitaCachedEntityStore#readme",
   "dependencies": {
-    "@angular/core": "^9.1.0",
+    "@angular/core": "^11.0.5",
     "@datorama/akita": "^4.22.0",
     "@datorama/akita-ng-router-store": "^4.0.0"
   }
